@@ -6,3 +6,13 @@
 
 /* CUSTOM STYLE BELLOW THIS COMMENT LINE */
 
+
+section.container {
+    padding-bottom: 30px;
+}
+
+footer.container {
+    padding-top: 0;
+}
+
+
